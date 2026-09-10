@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "build": "echo Build successful",
-    "test": "node test.js"
-    "lint": "echo Lint successful"
-  }
-}
